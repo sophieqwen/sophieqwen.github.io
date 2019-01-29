@@ -13,7 +13,7 @@ h1, h2, h3, h4, h5, h6 {
  text-transform: uppercase;
 }
 
-.container {
+.wrapper {
   width: 65vw;
   margin-left: 15vw;
   font-family: 'PT Sans', sans-serif;
