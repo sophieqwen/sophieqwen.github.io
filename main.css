@@ -1,8 +1,8 @@
 body {
   color: #f2f2f2;
   font-family: 'PT Sans', sans-serif;
-}
-
-.container {
-  
+  height: 100%;
+  margin: 0;
+  text-align: center;
+  width: 100%;
 }
